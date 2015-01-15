@@ -33,6 +33,35 @@ body {
      z-index: -1;	
 }
 
+.container{
+     background-image: url('http://1.bp.blogspot.com/-8owS0YXL-U4/Tx-raZqgkmI/AAAAAAAAJzc/Q3PTo7qfiv8/s1600/finalgroovy.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+img{
+     border: 10px solid red;
+}
+
 .project p{
      font-variant: small-caps;
+     text-align: center;
+     font-size: 20px;
+}
+
+.jumbotron h1{
+     font-family: 'Times New Roman';
+     text-align: center;
+
+}
+
+h4{
+     font-family: 'Georgia';
+     font-size: 24px;
+     text-align: center;
+}
+
+.jumbotron p{
+     font-family: 'Georgia';
+     text-align: center;
 }
